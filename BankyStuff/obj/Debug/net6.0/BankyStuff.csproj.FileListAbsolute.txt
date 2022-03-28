@@ -1,0 +1,12 @@
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\bin\Debug\net6.0\BankyStuff.deps.json
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\bin\Debug\net6.0\BankyStuff.dll
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\bin\Debug\net6.0\ref\BankyStuff.dll
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\bin\Debug\net6.0\BankyStuff.pdb
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.csproj.AssemblyReference.cache
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.AssemblyInfoInputs.cache
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.AssemblyInfo.cs
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.csproj.CoreCompileInputs.cache
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.dll
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\ref\BankyStuff.dll
+C:\Users\zhich\source\repos\MySuperBank\BankyStuff\obj\Debug\net6.0\BankyStuff.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c4bc544-15a6-4aa6-b8db-2e37e5a40ec2": {
+      "ProjectGuid": "1c4bc544-15a6-4aa6-b8db-2e37e5a40ec2",
+      "DisplayName": "MySuperBank",
+      "ColorIndex": 0
+    },
+    "5a9b6dc4-b992-4bf4-91df-bd42f83f0f6c": {
+      "ProjectGuid": "5a9b6dc4-b992-4bf4-91df-bd42f83f0f6c",
+      "DisplayName": "BankyStuff",
+      "ColorIndex": 1
+    },
+    "dbbda469-cf0b-4be9-b307-67260930baad": {
+      "ProjectGuid": "dbbda469-cf0b-4be9-b307-67260930baad",
+      "DisplayName": "BankingTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
