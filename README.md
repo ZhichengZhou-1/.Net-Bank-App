@@ -1,3 +1,3 @@
 # .Net-Bank-App
-Within the project directory, run 
-### dotnet run to run the app
+Within the project directory, to run the app run the following command
+### dotnet run
